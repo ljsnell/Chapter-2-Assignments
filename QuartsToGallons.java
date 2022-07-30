@@ -3,6 +3,6 @@ public class QuartsToGallons {
         int quarts_in_gallon = 4;
         int quarts_needed_for_paint_job = 18;
         
-        // Do you thing
+        // Do your thing
     }
 }
